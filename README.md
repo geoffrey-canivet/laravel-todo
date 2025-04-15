@@ -1,5 +1,8 @@
 ## 💬 Retour personnel & approche
 
+Ce projet a été réalisé dans le cadre d’une **demande spécifique** pour un **entretien d’embauche / de stage**.  
+L’objectif était de présenter une **petite application Laravel** pour démontrer ma capacité à **monter rapidement en compétence** sur un framework que je ne connaissais pas encore.
+
 Je viens de l’écosystème **JavaScript**, principalement **React**, donc plutôt orienté **frontend** à la base.  
 Mais mes connaissances en JS et ma compréhension du modèle **MVC** m’ont beaucoup aidé à prendre en main **Laravel** rapidement.
 
